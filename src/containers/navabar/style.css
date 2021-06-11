@@ -1,0 +1,15 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	padding: 12px 24px;
+    background-color: white;
+}
+
+.navabar_img {
+	height: 35px;
+	border-radius: 8px;
+}
+
+
+
+
